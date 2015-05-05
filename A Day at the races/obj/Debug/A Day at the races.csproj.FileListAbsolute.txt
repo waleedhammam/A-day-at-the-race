@@ -1,0 +1,18 @@
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\bin\Debug\A Day at the races.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\bin\Debug\A Day at the races.exe
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\bin\Debug\A Day at the races.pdb
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A Day at the races.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A_Day_at_the_races.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A_Day_at_the_races.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A Day at the races.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A Day at the races.exe
+c:\users\dell\documents\visual studio 2013\Projects\A Day at the races\A Day at the races\obj\Debug\A Day at the races.pdb
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\bin\Debug\A Day at the races.exe.config
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A Day at the races.exe
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A Day at the races.pdb
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\bin\Debug\A Day at the races.exe
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\bin\Debug\A Day at the races.pdb
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A Day at the races.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A_Day_at_the_races.Form1.resources
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A_Day_at_the_races.Properties.Resources.resources
+C:\Users\Dell\Downloads\A Day at the races\A Day at the races\obj\Debug\A Day at the races.csproj.GenerateResource.Cache
